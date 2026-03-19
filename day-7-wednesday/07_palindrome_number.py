@@ -6,3 +6,5 @@ class Solution(object):
 solver = Solution()
 print(solver.isPalindrome(121))
 print(solver.isPalindrome(-121))
+
+
